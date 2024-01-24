@@ -1,0 +1,45 @@
+{
+  "editor.fontLigatures": true,
+  "C_Cpp_Runner.cCompilerPath": "C:/Users/saiju/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:/Users/saiju/.platformio/packages/toolchain-g++armnoneeabi/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.debuggerPath": "C:/Users/saiju/.platformio/packages/toolchain-gdbarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++14",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "c:/myGithub/STM32_test/F303K8_mbed_Ltika/include",
+    "c:/myGithub/STM32_test/F303K8_mbed_Ltika/src",
+    "C:/Users/saiju/.platformio/packages/framework-mbed",
+    "c:/myGithub/STM32_test/F303K8_mbed_Ltika/.pio/build/nucleo_f303k8",
+    "c:/myGithub/STM32_test/F303K8_mbed_Ltika/.pio/libdeps/nucleo_f303k8/Unity/src",
+    ""
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false
+}

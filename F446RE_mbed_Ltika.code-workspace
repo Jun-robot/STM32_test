@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "F446RE_mbed_Ltika"
+		},
+		{
+			"path": "F446RE_mbed_MPU6050"
+		},
+		{
+			"path": "F303K8_mbed_Ltika"
+		},
+		{
+			"path": "F446RE_mbed_main"
+		},
+		{
+			"name": "Master_F446RE_mbed",
+			"path": "Master_F446RE_mbed"
+		},
+		{
+			"path": "../../収穫祭/NeoPixle"
+		},
+		{
+			"name": "dfsafdsafdsa",
+			"path": "../../Users/saiju/Documents/PlatformIO/Projects/dfsafdsafdsa"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"condition_variable": "cpp",
+			"future": "cpp",
+			"*.tcc": "cpp"
+		},
+		"editor.formatOnSave": true,
+		"editor.fontFamily": "'Fragment Mono', 'SF Mono', 'Courier New', monospace",
+		"editor.fontLigatures": true,
+		"editor.fontSize": 14
+	}
+}
